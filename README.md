@@ -22,7 +22,7 @@ $pip2 install requests
 
 $pkg install git
 
-$git clone https://github.com/Cnull00/Pulsa/
+$git clone https://github.com/Cnull00/Nullnet/
 
 $cd bash net.sh
 
