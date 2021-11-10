@@ -29,7 +29,7 @@ then
 sleep 2
  echo -e "${hijau}Login sukses"
 	clear
-	python  Pulsa01.py
+	python pulsa.py
 else
 sleep 2
  echo -e  "${merah}Password salah"
