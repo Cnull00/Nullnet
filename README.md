@@ -24,6 +24,8 @@ $pkg install git
 
 $git clone https://github.com/Cnull00/Nullnet/
 
-$cd bash net.sh
+$cd Nullnet
+
+$bash net.sh
 
 note* salin tanpa menggunakan simbol dolar($)
